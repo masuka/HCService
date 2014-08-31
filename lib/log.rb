@@ -13,7 +13,11 @@ Logging.appenders.rolling_file(
 )
 Logging.logger.root.add_appenders 'stdout', 'hc_service.log'
 
-log.info 'Logging intiated!'
+at_exit do
+	log.error $! if $!
+end
+
+log.info 'Logger intiated!'
 
 
 

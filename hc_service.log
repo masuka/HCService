@@ -1,0 +1,4 @@
+[2014-09-01 00:37:56] INFO  -Object-: Logging intiated!
+[2014-09-01 00:37:56] ERROR -Object-: <ZeroDivisionError> divided by 0
+	D:/Progs/Ruby/HCService/test.rb:13:in `/'
+	D:/Progs/Ruby/HCService/test.rb:13:in `<main>'
