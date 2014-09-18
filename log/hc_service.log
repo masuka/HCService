@@ -1,0 +1,9 @@
+[2014-09-16 15:04:46] INFO  -Object-: Logger intiated!
+[2014-09-16 15:04:46] INFO  -HCService::Conf-: Loading conf file C:/Users/abhaz/Documents/Visual Studio 2010/Projects/ParallelLabs/ParallelLabs/HCService/conf/db.yml
+[2014-09-16 15:04:46] INFO  -HCService::Conf-: Loading conf file C:/Users/abhaz/Documents/Visual Studio 2010/Projects/ParallelLabs/ParallelLabs/HCService/conf/env.yml
+[2014-09-16 15:04:46] INFO  -HCService::Conf-: Loading conf file C:/Users/abhaz/Documents/Visual Studio 2010/Projects/ParallelLabs/ParallelLabs/HCService/conf/test.json
+[2014-09-16 15:05:15] INFO  -Object-: Logger intiated!
+[2014-09-16 19:40:07] INFO  -Object-: Logger intiated!
+[2014-09-16 19:40:07] INFO  -HCService::Conf-: Loading conf file C:/Users/abhaz/Documents/Visual Studio 2010/Projects/ParallelLabs/ParallelLabs/HCService/conf/db.yml
+[2014-09-16 19:40:07] INFO  -HCService::Conf-: Loading conf file C:/Users/abhaz/Documents/Visual Studio 2010/Projects/ParallelLabs/ParallelLabs/HCService/conf/env.yml
+[2014-09-16 19:40:07] INFO  -HCService::Conf-: Loading conf file C:/Users/abhaz/Documents/Visual Studio 2010/Projects/ParallelLabs/ParallelLabs/HCService/conf/test.json

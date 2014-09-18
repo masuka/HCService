@@ -1,13 +1,3 @@
-require_relative 'lib/log' 
+require_relative 'lib/conf'
 
-module HCService
-	module Config
-		extend self
-
-
-		
-	end
-	
-end
-
-1/0
+puts conf.db['qa_automation']

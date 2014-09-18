@@ -1,0 +1,11 @@
+qa_automation:
+    adapter: mysql2
+    encoding: utf8
+    database: my_db_name
+    username: root
+    password: my_password
+    host: mysql://127.0.0.1:3306
+
+hey:
+    one: 1
+    two: 2

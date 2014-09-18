@@ -1,4 +1,0 @@
-[2014-09-13 20:30:38] INFO  -Object-: Logger intiated!
-[2014-09-13 20:30:38] ERROR -Object-: <ZeroDivisionError> divided by 0
-	C:/Users/abhaz/Documents/Visual Studio 2010/Projects/ParallelLabs/ParallelLabs/HCService/test.rb:13:in `/'
-	C:/Users/abhaz/Documents/Visual Studio 2010/Projects/ParallelLabs/ParallelLabs/HCService/test.rb:13:in `<main>'
